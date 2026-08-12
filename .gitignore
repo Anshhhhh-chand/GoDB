@@ -21,5 +21,6 @@ coverage.html
 .idea/
 .vscode/
 
-# Claude Code local settings
+# Local tool settings
 .claude/
+AUDIT.md
