@@ -1,0 +1,25 @@
+# Binaries
+/bin/
+*.exe
+*.out
+godb-server
+godb-cli
+
+# Test & coverage artifacts
+*.test
+*.prof
+coverage.out
+coverage.html
+
+# Local database data directories
+/data/
+*.wal
+*.sst
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Claude Code local settings
+.claude/
